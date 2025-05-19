@@ -14,7 +14,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Znarfieeee&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Znarfieeee&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Znarfieeee&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Znarfieeee&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
